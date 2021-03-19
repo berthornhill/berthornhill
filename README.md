@@ -17,8 +17,8 @@ As a musician, I've performed and recorded all over the country and world but mo
 
 If you’d like to connect, please reach out! 
 
-bert.hill72@gmail.com
-
+berthilldev@gmail.com
+www.berthilldev.com
 
 Skills : JavaScript, Ruby, Ruby on Rails, React, Redux, SQL, HTML, CSS, Git, MongoDB, PostgreSQL, Node.js, Linux, Express.js Amazon Web Services (AWS S3), Heroku, Object Oriented Programming (OOP), Test Driven Development (TDD), Webpack, jQuery
 
